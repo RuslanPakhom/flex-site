@@ -1,1 +1,1 @@
-# flex-site
+Training of Flex site creation
